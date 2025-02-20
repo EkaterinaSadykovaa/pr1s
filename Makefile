@@ -1,4 +1,4 @@
-#123
+#12
 CC = gcc
 CFLAGS = -Wall
 BUILDDIR = .build/
